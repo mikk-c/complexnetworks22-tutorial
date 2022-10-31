@@ -16,6 +16,7 @@ The following Python packages are required:
 - networkx 2.8.6
 - scipy 1.9.1
 - matplotlib 3.5.2
+- pyemd 0.5.1
 - network_distance (download from https://www.michelecoscia.com/wp-content/uploads/2021/04/network_distance.zip)
 
 The following Julia packages are required:
